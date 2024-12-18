@@ -1,0 +1,13 @@
+{
+  "Home": {
+    "title": "Welcome to My Blog"
+  },
+  "About": {
+    "title": "About Us",
+    "description": "This is our blog about various topics."
+  },
+  "BlogPost": {
+    "readMore": "Read More",
+    "publishedOn": "Published on"
+  }
+} 

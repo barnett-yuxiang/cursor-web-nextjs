@@ -1,0 +1,13 @@
+{
+  "Home": {
+    "title": "欢迎访问我的博客"
+  },
+  "About": {
+    "title": "关于我们",
+    "description": "这是我们的博客，涵盖各种主题。"
+  },
+  "BlogPost": {
+    "readMore": "阅读更多",
+    "publishedOn": "发布于"
+  }
+} 

@@ -1,0 +1,28 @@
+# Project Background
+This is a multilingual blog web application based on Next.js.
+
+# Coding Standards
+- Use functional components and Hooks, avoid class components.
+- Prefer `const` for variable declarations over `let`.
+- Use camelCase for variable and function names, PascalCase for component names.
+
+# Preferred Libraries
+- Use Next.js for navigation.
+- Use next-intl for internationalization.
+- Use Tailwind for CSS-in-JS styling.
+
+# File Structure
+- components: Reusable UI components.
+- app/[locale]: Next.js pages supporting multiple languages.
+- data/blog: Multilingual blog files.
+- app/api: API service functions.
+
+# Performance Optimization Guidelines
+- Use React.memo for pure functional components.
+- Implement lazy loading for route components.
+- Optimize useEffect dependencies to prevent unnecessary re-renders.
+
+# Testing Requirements
+- Write unit tests using Jest and React Testing Library.
+- Achieve at least 80% test coverage.
+- Use snapshot testing for UI components.
